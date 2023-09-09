@@ -7,7 +7,6 @@ function Inicio() {
     window.scrollTo(0, 0);
   }, []);
   
-  // const videoRef = useRef(null);
   const contentRef = useRef(null);
 
   useEffect(() => {
